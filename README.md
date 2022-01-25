@@ -1,4 +1,4 @@
-# sNews 1.80
+# sNews 1.71 Project died
 
 
 ## Codename: sNews Reborn!
