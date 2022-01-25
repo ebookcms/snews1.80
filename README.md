@@ -26,7 +26,7 @@ Apache, MySQL and PHP are all Open Source applications and freely available. The
 For installation please open filename (readme.html). More information about Using sNews on your local computer can be found in the [Help Section] at snewscms.com.
 
 
-Enjoy! **The sNews Team**
+Enjoy! **The sNews Team give up**
 
 
 
